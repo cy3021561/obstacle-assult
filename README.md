@@ -21,7 +21,7 @@ Obstacle Assault is an exciting course project developed for the Udemy course "U
 
 6. **Rotating Platforms:** The project expands by introducing rotating platforms, providing a deeper understanding of C++ implementation for interactive game elements.
 
-## What You Will Learn
+## What I Learned
 
 1. **Linking UE5 Blueprint to C++:** Students will gain hands-on experience in linking Unreal Engine 5's Blueprint system with C++ code, enabling them to leverage the strengths of both visual scripting and programming.
 
